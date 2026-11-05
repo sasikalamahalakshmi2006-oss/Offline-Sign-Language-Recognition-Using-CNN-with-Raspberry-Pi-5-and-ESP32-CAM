@@ -59,13 +59,16 @@ The project includes trained model formats:
 
 ## 📊 Supported Gestures
 
-The current model is designed to recognize five gestures:
+The trained CNN model recognizes 35 classes, including:
 
-- 1
-- 4
-- B
-- C
-- R
+### Digits
+1, 2, 3, 4, 5, 6, 7, 8, 9
+
+### Alphabets
+A, B, C, D, E, F, G, H, I, J, K, L, M,
+N, O, P, Q, R, S, T, U, V, W, X, Y, Z
+
+**Total Classes: 35**
 
 ## 🚀 Future Enhancements
 
